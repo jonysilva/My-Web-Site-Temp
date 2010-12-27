@@ -1,0 +1,23 @@
+body  {background: #FFF; color: #000; font: 12pt serif;}
+a:link, a:visited {color: #333; text-decoration: underline;}
+
+
+#head {
+	display:none;	
+}
+
+#footer {
+  display:none; 
+}
+#menu {
+  display:none; 
+}
+#welcome {
+  display:none; 
+}
+#rede_sociais {
+  display:none; 
+}
+
+
+
