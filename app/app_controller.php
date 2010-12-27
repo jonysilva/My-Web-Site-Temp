@@ -5,7 +5,7 @@
       
     function afterFilter()
     {
-      
+      //$this->error(404, 'Not found', 'This page was not found, sorry');
     }    
     
   }
